@@ -1,0 +1,5 @@
+/home/wzf/workspace/vision_training/build_task3/CMakeFiles/task3_windmill.dir
+/home/wzf/workspace/vision_training/build_task3/CMakeFiles/task1_image.dir
+/home/wzf/workspace/vision_training/build_task3/CMakeFiles/task2_fit.dir
+/home/wzf/workspace/vision_training/build_task3/CMakeFiles/edit_cache.dir
+/home/wzf/workspace/vision_training/build_task3/CMakeFiles/rebuild_cache.dir

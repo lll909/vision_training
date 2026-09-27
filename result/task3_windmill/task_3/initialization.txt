@@ -1,0 +1,6 @@
+init_frame: 0
+template_frame: 216
+center_x: 738
+center_y: 501
+center_w: 32
+center_h: 32

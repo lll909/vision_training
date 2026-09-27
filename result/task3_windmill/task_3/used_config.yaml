@@ -1,0 +1,34 @@
+%YAML:1.0
+---
+# Calibrated to the supplied 1440x1080 task_3.mp4; see 素材核验与修订.md.
+h1_low: 0
+h1_high: 30
+h2_low: 170
+h2_high: 179
+s_min: 100
+v_min: 20
+kernel: 3
+area_min: 1500.
+area_max: 9000.
+aspect_min: 0.65
+circularity_min: 0.40
+radius_min: 100.
+radius_max: 300.
+min_holes: 3
+hole_area_ratio: 0.015
+arrow_half_width: 6
+arrow_v_min: 100
+arrow_fill_min: 0.40
+center_search: 100
+center_match_min: 0.93
+center_global_reacquire: 1
+angle_gate: 0.30
+radius_gate: 0.25
+lost_tolerance: 8
+# Offline template calibration frame is separate from the start of processing.
+init_frame: 0
+template_frame: 216
+center_x: 738
+center_y: 501
+center_w: 32
+center_h: 32
